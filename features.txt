@@ -1,0 +1,12 @@
+1. easy to learn and use
+2. interpreted language
+3. object oriented programming language
+4. huge library
+5. free and open source
+6. extensible
+7. GUI programming support
+8. integrated
+9. embeddable
+10. dynamic memory allocation
+11. cross platform
+12. expressive language
