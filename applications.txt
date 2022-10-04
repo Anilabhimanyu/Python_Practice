@@ -1,0 +1,11 @@
+Desktop Applications
+Web Applications
+Data Science
+Artificial Intelligence
+Machine Learning
+Scientific Computing
+Robotics
+Internet of Things (IoT)
+Gaming
+Mobile Apps
+Data Analysis and Preprocessing
